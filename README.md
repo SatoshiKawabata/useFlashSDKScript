@@ -1,0 +1,2 @@
+# useFlashSDKScript
+.actionScriptPropertiesのuseFlashSDKプロパティをfalseにするスクリプト
